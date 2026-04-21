@@ -62,8 +62,29 @@ This project performs **Exploratory Data Analysis (EDA)** to understand customer
 ---
 
 ## 📈 Sample Visualizations
+#Target Variable Analysis
+<img width="752" height="656" alt="Screenshot 2026-04-21 102711" src="https://github.com/user-attachments/assets/6fe7468a-97de-4959-a8a8-0fbaf96570a0" />
 
-(Add screenshots of your plots here from the `/images` folder)
+#Churn vs Contract Type
+<img width="641" height="553" alt="Screenshot 2026-04-21 102855" src="https://github.com/user-attachments/assets/2b0e4458-beed-4bbf-8223-3ad81099f645" />
+
+#Churn vs Tenure
+<img width="601" height="597" alt="Screenshot 2026-04-21 102904" src="https://github.com/user-attachments/assets/fd11376f-838e-4aaa-8e1d-0dc67d068556" />
+
+#Churn vs Monthly Charges
+<img width="607" height="548" alt="Screenshot 2026-04-21 102911" src="https://github.com/user-attachments/assets/b198d5e3-c74d-4313-80d0-5677b0951f55" />
+
+#Churn vs Payment Method
+<img width="618" height="653" alt="Screenshot 2026-04-21 102921" src="https://github.com/user-attachments/assets/580fc13f-ea2f-40aa-b4aa-f9474e89de30" />
+
+
+
+
+
+
+
+
+
 
 ---
 
